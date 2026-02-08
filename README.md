@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Outcome_Nexus_Logo_Facebook.png" alt="Outcome Nexus" width="600" />
+  <img src="assets/Outcome_Nexus_Logo_Facebook.png" alt="Outcome Nexus" width="600" />
 </p>
 
 # Outcome Nexus - Documentation
