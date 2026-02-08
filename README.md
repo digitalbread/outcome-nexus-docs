@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/digitalbread/outcome-nexus-docs/main/assets/Outcome_Nexus_Logo_Facebook.png" alt="Outcome Nexus" width="600" />
+  <img src="./assets/Outcome Nexus Logo Githubpng.png" alt="Outcome Nexus" width="600" />
 </p>
 
 # Outcome Nexus - Documentation
